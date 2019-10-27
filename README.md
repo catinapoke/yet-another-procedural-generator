@@ -13,6 +13,7 @@ I made this procedural generator for science-practical conference in March 2018.
 6. For of war
 7. Lazy generating by moving player
 8. Generating whole map by clicking seond time button "Generate"
+9. Height map, Moisture map and Heat map are combining into climat map that is being displayed in window
 
 **Program in action**
 
