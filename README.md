@@ -1,6 +1,6 @@
 # Yet-another-procedural-generator
 
-I made this procedural generator for russian science-practical conference in March 2018.  
+I made this procedural generator for science-practical conference in March 2018.  
 
 **Program opportunities:**  
 1. Interface is made using WinForms
@@ -16,5 +16,5 @@ I made this procedural generator for russian science-practical conference in Mar
 
 **Program in action**
 
-There will be gif animation
+![](https://github.com/catinapoke/yet-another-procedural-generator/blob/master/generator_opti.gif)
 
